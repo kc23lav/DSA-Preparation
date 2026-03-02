@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class CountDigits
+public class CountingDigits
 {
     public static void main(String[] args)
      {
